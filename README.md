@@ -6,9 +6,11 @@
 
 ## I'm FullStack WebDeveloper <3
 
-- 👨‍💻 I am still at the stage of learning web technology =\
+- 👨‍💻 I'm always in the learning phase =\
 - 📚 Learning everything about Frontend and Backend technologies =/
-- 💪🏼 Future Goals: Learn more technologies (Prisma, NestJS, NextJS, VueJS ...) - Never stop creating new ideas.
+- 💪🏼 Future Goals: (Prisma, NestJS, NextJS, VueJS ...) - Never stop creating new ideas.
+- Kazakhstan/Almaty
+- zhailau_e@mail.ru
 
 ---
 
