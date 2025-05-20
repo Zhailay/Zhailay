@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm always in the learning phase =\
 - 📚 Learning everything about Frontend and Backend technologies =)
-- 💪🏼 Future Goals: (NestJS, NextJS, VueJS ...) - Never stop creating new ideas.
+- 💪🏼 Future Goals: (VueJS ...) - Never stop creating new ideas.
 - Kazakhstan/Almaty
 - zhailau_e@mail.ru
 
