@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm FullStack WebDeveloper <3
+## I'm FullStack Developer <3
 
 - 👨‍💻 I'm always in the learning phase =\
 - 📚 Learning everything about Frontend and Backend technologies =/
